@@ -1,0 +1,704 @@
+2025-11-21 19:05:13,540 - WARNING - No TARGET_EMAILS found in .env. Reports will not be sent.
+2025-11-21 19:05:13,540 - INFO - System Online. Monitoring for 'C CHECK'. Inventory: C:\Users\calvi\Projects\Genthrust_Alarm\data\inventory.csv
+2025-11-21 19:05:13,541 - INFO - Checking for new emails...
+2025-11-21 19:05:13,544 - ERROR - Authentication Failed. Check Client ID/Secret in .env
+2025-11-21 19:06:13,545 - INFO - Checking for new emails...
+2025-11-21 19:06:13,545 - ERROR - Authentication Failed. Check Client ID/Secret in .env
+2025-11-21 19:07:13,547 - INFO - Checking for new emails...
+2025-11-21 19:07:13,547 - ERROR - Authentication Failed. Check Client ID/Secret in .env
+2025-11-21 19:07:16,541 - INFO - Bot stopped by user.
+2025-11-21 19:10:45,542 - INFO - System Online. Monitoring for 'C CHECK'.
+2025-11-21 19:10:45,542 - INFO - Checking for new emails...
+2025-11-21 19:10:45,545 - ERROR - Authentication Failed. Double check your Client Secret VALUE (not ID).
+2025-11-21 19:11:45,546 - INFO - Checking for new emails...
+2025-11-21 19:11:45,546 - ERROR - Authentication Failed. Double check your Client Secret VALUE (not ID).
+2025-11-21 19:12:45,547 - INFO - Checking for new emails...
+2025-11-21 19:12:45,548 - ERROR - Authentication Failed. Double check your Client Secret VALUE (not ID).
+2025-11-21 19:13:35,935 - INFO - Bot stopped by user.
+2025-11-21 19:17:25,003 - INFO - System Online. Monitoring for 'C CHECK'.
+2025-11-21 19:17:25,003 - INFO - Connecting to Azure...
+2025-11-21 19:17:25,559 - INFO - Authentication Successful.
+2025-11-21 19:17:25,561 - CRITICAL - Unexpected Crash: 'QueryBuilder' object has no attribute 'on_attribute'
+2025-11-21 19:18:58,910 - INFO - System Online. Monitoring for 'C CHECK'.
+2025-11-21 19:18:58,910 - INFO - Connecting to Azure...
+2025-11-21 19:18:59,574 - INFO - Authentication Successful.
+2025-11-21 19:19:00,183 - ERROR - Client Error: 400 Client Error: Bad Request for url: https://graph.microsoft.com/v1.0/mailFolders/Inbox/messages?%24top=25 | Error Message: Resource not found for the segment 'mailFolders'. | Error Code: 
+2025-11-21 19:19:00,183 - ERROR - Failed to fetch messages: 400 Client Error: Bad Request for url: https://graph.microsoft.com/v1.0/mailFolders/Inbox/messages?%24top=25 | Error Message: Resource not found for the segment 'mailFolders'.
+2025-11-21 19:19:34,400 - INFO - Bot stopped by user.
+2025-11-21 19:20:53,265 - INFO - System Online. Monitoring: cmalagon@genthrust.net
+2025-11-21 19:20:53,265 - INFO - Connecting to Azure...
+2025-11-21 19:20:53,871 - INFO - Authentication Successful.
+2025-11-21 19:20:54,436 - ERROR - Client Error: 403 Client Error: Forbidden for url: https://graph.microsoft.com/v1.0/users/cmalagon@genthrust.net/mailFolders/Inbox/messages?%24top=25 | Error Message: Access is denied. Check credentials and try again. | Error Code: 
+2025-11-21 19:20:54,437 - ERROR - Failed to fetch messages: 403 Client Error: Forbidden for url: https://graph.microsoft.com/v1.0/users/cmalagon@genthrust.net/mailFolders/Inbox/messages?%24top=25 | Error Message: Access is denied. Check credentials and try again.
+2025-11-21 19:21:54,440 - INFO - Connecting to Azure...
+2025-11-21 19:21:54,957 - INFO - Authentication Successful.
+2025-11-21 19:21:55,366 - ERROR - Client Error: 403 Client Error: Forbidden for url: https://graph.microsoft.com/v1.0/users/cmalagon@genthrust.net/mailFolders/Inbox/messages?%24top=25 | Error Message: Access is denied. Check credentials and try again. | Error Code: 
+2025-11-21 19:21:55,367 - ERROR - Failed to fetch messages: 403 Client Error: Forbidden for url: https://graph.microsoft.com/v1.0/users/cmalagon@genthrust.net/mailFolders/Inbox/messages?%24top=25 | Error Message: Access is denied. Check credentials and try again.
+2025-11-21 19:22:55,369 - INFO - Connecting to Azure...
+2025-11-21 19:22:56,074 - INFO - Authentication Successful.
+2025-11-21 19:22:56,532 - ERROR - Client Error: 403 Client Error: Forbidden for url: https://graph.microsoft.com/v1.0/users/cmalagon@genthrust.net/mailFolders/Inbox/messages?%24top=25 | Error Message: Access is denied. Check credentials and try again. | Error Code: 
+2025-11-21 19:22:56,532 - ERROR - Failed to fetch messages: 403 Client Error: Forbidden for url: https://graph.microsoft.com/v1.0/users/cmalagon@genthrust.net/mailFolders/Inbox/messages?%24top=25 | Error Message: Access is denied. Check credentials and try again.
+2025-11-21 19:23:21,278 - INFO - Bot stopped by user.
+2025-11-21 19:23:24,062 - INFO - System Online. Monitoring: cmalagon@genthrust.net
+2025-11-21 19:23:24,062 - INFO - Connecting to Azure...
+2025-11-21 19:23:24,695 - INFO - Authentication Successful.
+2025-11-21 19:24:25,849 - INFO - Connecting to Azure...
+2025-11-21 19:24:26,589 - INFO - Authentication Successful.
+2025-11-21 19:25:27,638 - INFO - Connecting to Azure...
+2025-11-21 19:25:28,186 - INFO - Authentication Successful.
+2025-11-21 19:26:29,214 - INFO - Connecting to Azure...
+2025-11-21 19:26:29,874 - INFO - Authentication Successful.
+2025-11-21 19:27:30,909 - INFO - Connecting to Azure...
+2025-11-21 19:27:31,605 - INFO - Authentication Successful.
+2025-11-21 19:28:32,603 - INFO - Connecting to Azure...
+2025-11-21 19:28:33,196 - INFO - Authentication Successful.
+2025-11-21 19:29:34,279 - INFO - Connecting to Azure...
+2025-11-21 19:29:34,902 - INFO - Authentication Successful.
+2025-11-21 19:30:35,965 - INFO - Connecting to Azure...
+2025-11-21 19:30:36,658 - INFO - Authentication Successful.
+2025-11-21 19:31:37,630 - INFO - Connecting to Azure...
+2025-11-21 19:31:38,215 - INFO - Authentication Successful.
+2025-11-21 19:32:39,242 - INFO - Connecting to Azure...
+2025-11-21 19:32:39,804 - INFO - Authentication Successful.
+2025-11-21 19:33:41,231 - INFO - Connecting to Azure...
+2025-11-21 19:33:41,797 - INFO - Authentication Successful.
+2025-11-21 19:34:42,747 - INFO - Connecting to Azure...
+2025-11-21 19:34:43,352 - INFO - Authentication Successful.
+2025-11-21 19:35:44,535 - INFO - Connecting to Azure...
+2025-11-21 19:35:45,224 - INFO - Authentication Successful.
+2025-11-21 19:36:45,660 - INFO - Bot stopped by user.
+2025-11-21 19:36:54,780 - INFO - System Online. Monitoring: cmalagon@genthrust.net
+2025-11-21 19:36:54,781 - INFO - Connecting to Azure...
+2025-11-21 19:36:55,369 - INFO - Authentication Successful.
+2025-11-21 19:37:56,488 - INFO - Connecting to Azure...
+2025-11-21 19:37:57,113 - INFO - Authentication Successful.
+2025-11-21 19:38:58,093 - INFO - Connecting to Azure...
+2025-11-21 19:38:58,646 - INFO - Authentication Successful.
+2025-11-21 19:38:59,454 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 19:38:59,457 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:39:59,464 - INFO - Connecting to Azure...
+2025-11-21 19:40:00,043 - INFO - Authentication Successful.
+2025-11-21 19:40:00,958 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 19:40:00,959 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:40:00,960 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 19:40:00,961 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:41:00,968 - INFO - Connecting to Azure...
+2025-11-21 19:41:01,580 - INFO - Authentication Successful.
+2025-11-21 19:41:02,448 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 19:41:02,449 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:41:02,450 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 19:41:02,450 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:41:02,451 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 19:41:02,451 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:42:02,469 - INFO - Connecting to Azure...
+2025-11-21 19:42:03,028 - INFO - Authentication Successful.
+2025-11-21 19:42:03,859 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 19:42:03,860 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:42:03,860 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 19:42:03,860 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:42:03,862 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 19:42:03,862 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:43:03,869 - INFO - Connecting to Azure...
+2025-11-21 19:43:04,491 - INFO - Authentication Successful.
+2025-11-21 19:43:05,392 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 19:43:05,394 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:43:05,394 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 19:43:05,395 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:43:05,395 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 19:43:05,396 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:44:05,403 - INFO - Connecting to Azure...
+2025-11-21 19:44:05,937 - INFO - Authentication Successful.
+2025-11-21 19:44:07,117 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 19:44:07,118 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:44:07,118 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 19:44:07,119 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:44:07,120 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 19:44:07,121 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:45:07,129 - INFO - Connecting to Azure...
+2025-11-21 19:45:07,794 - INFO - Authentication Successful.
+2025-11-21 19:45:08,806 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 19:45:08,806 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:45:08,807 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 19:45:08,807 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:45:08,807 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 19:45:08,808 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:46:08,814 - INFO - Connecting to Azure...
+2025-11-21 19:46:09,384 - INFO - Authentication Successful.
+2025-11-21 19:46:10,491 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 19:46:10,492 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:46:10,493 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 19:46:10,493 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:46:10,493 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 19:46:10,494 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:47:10,501 - INFO - Connecting to Azure...
+2025-11-21 19:47:11,148 - INFO - Authentication Successful.
+2025-11-21 19:47:12,164 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 19:47:12,165 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:47:12,165 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 19:47:12,166 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:47:12,166 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 19:47:12,166 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:48:12,173 - INFO - Connecting to Azure...
+2025-11-21 19:48:12,714 - INFO - Authentication Successful.
+2025-11-21 19:48:13,615 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 19:48:13,615 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:48:13,616 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 19:48:13,616 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:48:13,617 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 19:48:13,617 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:49:13,623 - INFO - Connecting to Azure...
+2025-11-21 19:49:14,193 - INFO - Authentication Successful.
+2025-11-21 19:49:15,266 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 19:49:15,268 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:49:15,268 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 19:49:15,269 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:49:15,269 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 19:49:15,269 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:50:15,276 - INFO - Connecting to Azure...
+2025-11-21 19:50:15,949 - INFO - Authentication Successful.
+2025-11-21 19:50:16,967 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 19:50:16,968 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:50:16,969 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 19:50:16,969 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:50:16,969 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 19:50:16,969 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:51:16,976 - INFO - Connecting to Azure...
+2025-11-21 19:51:17,686 - INFO - Authentication Successful.
+2025-11-21 19:51:18,657 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 19:51:18,657 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:51:18,658 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 19:51:18,658 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:51:18,658 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 19:51:18,659 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:52:18,665 - INFO - Connecting to Azure...
+2025-11-21 19:52:19,178 - INFO - Authentication Successful.
+2025-11-21 19:52:20,343 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 19:52:20,344 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:52:20,344 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 19:52:20,344 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:52:20,346 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 19:52:20,346 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:53:20,353 - INFO - Connecting to Azure...
+2025-11-21 19:53:20,880 - INFO - Authentication Successful.
+2025-11-21 19:53:21,769 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 19:53:21,770 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:53:21,771 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 19:53:21,771 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:53:21,772 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 19:53:21,772 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:54:21,778 - INFO - Connecting to Azure...
+2025-11-21 19:54:22,276 - INFO - Authentication Successful.
+2025-11-21 19:54:23,237 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 19:54:23,239 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:54:23,240 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 19:54:23,240 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:54:23,241 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 19:54:23,242 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:55:23,255 - INFO - Connecting to Azure...
+2025-11-21 19:55:23,776 - INFO - Authentication Successful.
+2025-11-21 19:55:24,737 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 19:55:24,737 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:55:24,738 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 19:55:24,738 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:55:24,739 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 19:55:24,739 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:56:24,746 - INFO - Connecting to Azure...
+2025-11-21 19:56:25,336 - INFO - Authentication Successful.
+2025-11-21 19:56:26,212 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 19:56:26,213 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:56:26,213 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 19:56:26,213 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:56:26,214 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 19:56:26,214 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:57:26,222 - INFO - Connecting to Azure...
+2025-11-21 19:57:26,869 - INFO - Authentication Successful.
+2025-11-21 19:57:27,786 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 19:57:27,786 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:57:27,787 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 19:57:27,787 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:57:27,788 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 19:57:27,788 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:58:27,793 - INFO - Connecting to Azure...
+2025-11-21 19:58:28,381 - INFO - Authentication Successful.
+2025-11-21 19:58:29,261 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 19:58:29,262 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:58:29,263 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 19:58:29,263 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:58:29,263 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 19:58:29,265 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:59:29,271 - INFO - Connecting to Azure...
+2025-11-21 19:59:29,794 - INFO - Authentication Successful.
+2025-11-21 19:59:30,770 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 19:59:30,771 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:59:30,771 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 19:59:30,771 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 19:59:30,773 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 19:59:30,773 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:00:30,779 - INFO - Connecting to Azure...
+2025-11-21 20:00:31,326 - INFO - Authentication Successful.
+2025-11-21 20:00:32,200 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:00:32,201 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:00:32,201 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 20:00:32,203 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:00:32,203 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 20:00:32,204 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:01:32,210 - INFO - Connecting to Azure...
+2025-11-21 20:01:32,832 - INFO - Authentication Successful.
+2025-11-21 20:01:33,684 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:01:33,684 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:01:33,685 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 20:01:33,685 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:01:33,686 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 20:01:33,686 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:02:33,692 - INFO - Connecting to Azure...
+2025-11-21 20:02:34,250 - INFO - Authentication Successful.
+2025-11-21 20:02:35,214 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:02:35,214 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:02:35,215 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 20:02:35,216 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:02:35,216 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 20:02:35,217 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:03:35,225 - INFO - Connecting to Azure...
+2025-11-21 20:03:35,814 - INFO - Authentication Successful.
+2025-11-21 20:03:36,619 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:03:36,620 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:03:36,620 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 20:03:36,621 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:03:36,621 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 20:03:36,621 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:04:36,628 - INFO - Connecting to Azure...
+2025-11-21 20:04:37,247 - INFO - Authentication Successful.
+2025-11-21 20:04:38,180 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:04:38,182 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:04:38,182 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 20:04:38,183 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:04:38,183 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 20:04:38,183 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:05:38,189 - INFO - Connecting to Azure...
+2025-11-21 20:05:38,861 - INFO - Authentication Successful.
+2025-11-21 20:05:39,699 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:05:39,700 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:05:39,700 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 20:05:39,701 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:05:39,701 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 20:05:39,702 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:06:39,707 - INFO - Connecting to Azure...
+2025-11-21 20:06:40,262 - INFO - Authentication Successful.
+2025-11-21 20:06:41,099 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:06:41,099 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:06:41,100 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 20:06:41,100 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:06:41,101 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 20:06:41,102 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:07:41,110 - INFO - Connecting to Azure...
+2025-11-21 20:07:41,641 - INFO - Authentication Successful.
+2025-11-21 20:07:42,887 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:07:42,887 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:07:42,888 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 20:07:42,888 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:07:42,889 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 20:07:42,889 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:08:42,897 - INFO - Connecting to Azure...
+2025-11-21 20:08:43,402 - INFO - Authentication Successful.
+2025-11-21 20:08:44,276 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:08:44,277 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:08:44,277 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 20:08:44,278 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:08:44,278 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 20:08:44,278 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:09:44,285 - INFO - Connecting to Azure...
+2025-11-21 20:09:44,863 - INFO - Authentication Successful.
+2025-11-21 20:09:45,727 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:09:45,727 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:09:45,728 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 20:09:45,728 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:09:45,728 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 20:09:45,729 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:10:45,735 - INFO - Connecting to Azure...
+2025-11-21 20:10:46,315 - INFO - Authentication Successful.
+2025-11-21 20:10:47,241 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:10:47,241 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:10:47,242 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 20:10:47,242 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:10:47,243 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 20:10:47,243 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:11:47,248 - INFO - Connecting to Azure...
+2025-11-21 20:11:47,749 - INFO - Authentication Successful.
+2025-11-21 20:11:48,550 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:11:48,551 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:11:48,551 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 20:11:48,552 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:11:48,552 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 20:11:48,553 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:12:48,562 - INFO - Connecting to Azure...
+2025-11-21 20:12:49,136 - INFO - Authentication Successful.
+2025-11-21 20:12:50,103 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:12:50,105 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:12:50,105 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 20:12:50,106 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:12:50,106 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 20:12:50,106 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:13:50,113 - INFO - Connecting to Azure...
+2025-11-21 20:13:50,680 - INFO - Authentication Successful.
+2025-11-21 20:13:51,640 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:13:51,641 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:13:51,641 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 20:13:51,642 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:13:51,642 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 20:13:51,642 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:14:51,649 - INFO - Connecting to Azure...
+2025-11-21 20:14:52,175 - INFO - Authentication Successful.
+2025-11-21 20:14:53,107 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:14:53,107 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:14:53,108 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 20:14:53,108 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:14:53,108 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 20:14:53,109 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:15:53,116 - INFO - Connecting to Azure...
+2025-11-21 20:15:53,679 - INFO - Authentication Successful.
+2025-11-21 20:15:54,521 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:15:54,521 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:15:54,522 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 20:15:54,522 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:15:54,523 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 20:15:54,523 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:16:54,529 - INFO - Connecting to Azure...
+2025-11-21 20:16:55,136 - INFO - Authentication Successful.
+2025-11-21 20:16:55,977 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:16:55,978 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:16:55,979 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 20:16:55,979 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:16:55,980 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 20:16:55,980 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:17:55,986 - INFO - Connecting to Azure...
+2025-11-21 20:17:56,600 - INFO - Authentication Successful.
+2025-11-21 20:17:57,425 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:17:57,425 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:17:57,426 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 20:17:57,426 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:17:57,427 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 20:17:57,427 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:18:57,434 - INFO - Connecting to Azure...
+2025-11-21 20:18:57,971 - INFO - Authentication Successful.
+2025-11-21 20:18:58,772 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:18:58,772 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:18:58,772 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 20:18:58,773 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:18:58,773 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 20:18:58,773 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:19:58,781 - INFO - Connecting to Azure...
+2025-11-21 20:19:59,552 - INFO - Authentication Successful.
+2025-11-21 20:20:00,410 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:20:00,411 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:20:00,411 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 20:20:00,412 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:20:00,412 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 20:20:00,412 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:21:00,419 - INFO - Connecting to Azure...
+2025-11-21 20:21:01,013 - INFO - Authentication Successful.
+2025-11-21 20:21:01,826 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:21:01,827 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:21:01,827 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 20:21:01,827 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:21:01,828 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 20:21:01,828 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:22:01,835 - INFO - Connecting to Azure...
+2025-11-21 20:22:02,411 - INFO - Authentication Successful.
+2025-11-21 20:22:03,261 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:22:03,262 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:22:03,263 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 20:22:03,263 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:22:03,264 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 20:22:03,265 - ERROR - Failed to read inventory CSV: No columns to parse from file
+2025-11-21 20:23:03,272 - INFO - Connecting to Azure...
+2025-11-21 20:23:03,868 - INFO - Authentication Successful.
+2025-11-21 20:23:04,684 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:23:04,698 - ERROR - Failed to read inventory CSV: 'part_number'
+2025-11-21 20:23:04,698 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 20:23:04,699 - ERROR - Failed to read inventory CSV: 'part_number'
+2025-11-21 20:23:04,700 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 20:23:04,700 - ERROR - Failed to read inventory CSV: 'part_number'
+2025-11-21 20:24:04,707 - INFO - Connecting to Azure...
+2025-11-21 20:24:05,235 - INFO - Authentication Successful.
+2025-11-21 20:24:06,090 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:24:06,091 - ERROR - Failed to read inventory CSV: 'part_number'
+2025-11-21 20:24:06,091 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 20:24:06,092 - ERROR - Failed to read inventory CSV: 'part_number'
+2025-11-21 20:24:06,093 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 20:24:06,093 - ERROR - Failed to read inventory CSV: 'part_number'
+2025-11-21 20:25:06,100 - INFO - Connecting to Azure...
+2025-11-21 20:25:06,639 - INFO - Authentication Successful.
+2025-11-21 20:25:07,485 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:25:07,486 - ERROR - Failed to read inventory CSV: 'part_number'
+2025-11-21 20:25:07,487 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 20:25:07,488 - ERROR - Failed to read inventory CSV: 'part_number'
+2025-11-21 20:25:07,488 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 20:25:07,490 - ERROR - Failed to read inventory CSV: 'part_number'
+2025-11-21 20:25:21,201 - INFO - Bot stopped by user.
+2025-11-21 20:25:24,466 - INFO - System Online. Monitoring: cmalagon@genthrust.net
+2025-11-21 20:25:24,466 - INFO - Connecting to Azure...
+2025-11-21 20:25:25,061 - INFO - Authentication Successful.
+2025-11-21 20:25:26,575 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:25:26,590 - CRITICAL - Unexpected Crash: 'Message' object has no attribute 'body_text'
+2025-11-21 20:27:00,938 - INFO - System Online. Monitoring: cmalagon@genthrust.net
+2025-11-21 20:27:00,938 - INFO - Connecting to Azure...
+2025-11-21 20:27:01,547 - INFO - Authentication Successful.
+2025-11-21 20:27:02,558 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:27:02,571 - INFO - Found 5 parts using Text Scanner
+2025-11-21 20:27:02,652 - ERROR - Client Error: 400 Client Error: Bad Request for url: https://graph.microsoft.com/v1.0/sendMail | Error Message: Resource not found for the segment 'sendMail'. | Error Code: 
+2025-11-21 20:27:02,652 - CRITICAL - Unexpected Crash: 400 Client Error: Bad Request for url: https://graph.microsoft.com/v1.0/sendMail | Error Message: Resource not found for the segment 'sendMail'.
+2025-11-21 20:28:15,402 - INFO - System Online. Monitoring: cmalagon@genthrust.net
+2025-11-21 20:28:15,402 - INFO - Connecting to Azure...
+2025-11-21 20:28:15,996 - INFO - Authentication Successful.
+2025-11-21 20:28:17,153 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:28:17,163 - INFO - Found 5 parts using Text Scanner
+2025-11-21 20:28:17,343 - ERROR - Client Error: 403 Client Error: Forbidden for url: https://graph.microsoft.com/v1.0/users/cmalagon@genthrust.net/sendMail | Error Message: Access is denied. Check credentials and try again. | Error Code: 
+2025-11-21 20:28:17,343 - CRITICAL - Unexpected Crash: 403 Client Error: Forbidden for url: https://graph.microsoft.com/v1.0/users/cmalagon@genthrust.net/sendMail | Error Message: Access is denied. Check credentials and try again.
+2025-11-21 20:29:01,688 - INFO - System Online. Monitoring: cmalagon@genthrust.net
+2025-11-21 20:29:01,688 - INFO - Connecting to Azure...
+2025-11-21 20:29:02,314 - INFO - Authentication Successful.
+2025-11-21 20:29:03,295 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:29:03,307 - INFO - Found 5 parts using Text Scanner
+2025-11-21 20:29:03,458 - ERROR - Client Error: 403 Client Error: Forbidden for url: https://graph.microsoft.com/v1.0/users/cmalagon@genthrust.net/sendMail | Error Message: Access is denied. Check credentials and try again. | Error Code: 
+2025-11-21 20:29:03,458 - CRITICAL - Unexpected Crash: 403 Client Error: Forbidden for url: https://graph.microsoft.com/v1.0/users/cmalagon@genthrust.net/sendMail | Error Message: Access is denied. Check credentials and try again.
+2025-11-21 20:29:39,141 - INFO - System Online. Monitoring: cmalagon@genthrust.net
+2025-11-21 20:29:39,141 - INFO - Connecting to Azure...
+2025-11-21 20:29:39,710 - INFO - Authentication Successful.
+2025-11-21 20:29:40,777 - INFO - Processing Email: C CHECK TEST 3
+2025-11-21 20:29:40,787 - INFO - Found 5 parts using Text Scanner
+2025-11-21 20:29:41,077 - INFO - Report sent to 1 recipients.
+2025-11-21 20:29:41,271 - INFO - Email marked as read.
+2025-11-21 20:29:41,381 - INFO - Processing Email: C CHECK TEST 2
+2025-11-21 20:29:41,396 - INFO - Found 16 parts using Text Scanner
+2025-11-21 20:29:41,690 - INFO - Report sent to 1 recipients.
+2025-11-21 20:29:41,861 - INFO - Email marked as read.
+2025-11-21 20:29:41,999 - INFO - Processing Email: C CHECK TEST 1
+2025-11-21 20:29:42,006 - INFO - Found 9 parts using Text Scanner
+2025-11-21 20:29:42,299 - INFO - Report sent to 1 recipients.
+2025-11-21 20:29:42,485 - INFO - Email marked as read.
+2025-11-21 20:30:45,695 - INFO - Connecting to Azure...
+2025-11-21 20:30:46,312 - INFO - Authentication Successful.
+2025-11-21 20:30:47,173 - INFO - Processing Email: Inventory Alert: C CHECK TEST 1
+2025-11-21 20:30:47,176 - INFO - Found 9 parts using HTML Table
+2025-11-21 20:30:47,406 - INFO - Report sent to 1 recipients.
+2025-11-21 20:30:47,649 - INFO - Email marked as read.
+2025-11-21 20:30:47,651 - INFO - Processing Email: Inventory Alert: C CHECK TEST 3
+2025-11-21 20:30:47,655 - INFO - Found 5 parts using HTML Table
+2025-11-21 20:30:47,872 - INFO - Report sent to 1 recipients.
+2025-11-21 20:30:48,049 - INFO - Email marked as read.
+2025-11-21 20:30:48,051 - INFO - Processing Email: Inventory Alert: C CHECK TEST 2
+2025-11-21 20:30:48,058 - INFO - Found 16 parts using HTML Table
+2025-11-21 20:30:48,309 - INFO - Report sent to 1 recipients.
+2025-11-21 20:30:48,476 - INFO - Email marked as read.
+2025-11-21 20:31:51,292 - INFO - Connecting to Azure...
+2025-11-21 20:31:52,062 - INFO - Authentication Successful.
+2025-11-21 20:31:52,976 - INFO - Processing Email: Inventory Alert: Inventory Alert: C CHECK TEST 1
+2025-11-21 20:31:52,999 - INFO - Found 9 parts using HTML Table
+2025-11-21 20:31:53,227 - INFO - Report sent to 1 recipients.
+2025-11-21 20:31:53,399 - INFO - Email marked as read.
+2025-11-21 20:32:56,157 - INFO - Connecting to Azure...
+2025-11-21 20:32:56,715 - INFO - Authentication Successful.
+2025-11-21 20:32:57,706 - INFO - Processing Email: Inventory Alert: Inventory Alert: Inventory Alert: C CHECK TEST 1
+2025-11-21 20:32:57,710 - INFO - Found 9 parts using HTML Table
+2025-11-21 20:32:57,935 - INFO - Report sent to 1 recipients.
+2025-11-21 20:32:58,117 - INFO - Email marked as read.
+2025-11-21 20:34:01,022 - INFO - Connecting to Azure...
+2025-11-21 20:34:01,549 - INFO - Authentication Successful.
+2025-11-21 20:34:02,940 - INFO - Processing Email: Inventory Alert: Inventory Alert: Inventory Alert: Inventory Alert: C CHECK TEST 1
+2025-11-21 20:34:02,943 - INFO - Found 9 parts using HTML Table
+2025-11-21 20:34:03,265 - INFO - Report sent to 1 recipients.
+2025-11-21 20:34:03,496 - INFO - Email marked as read.
+2025-11-21 20:35:05,448 - INFO - Connecting to Azure...
+2025-11-21 20:35:05,987 - INFO - Authentication Successful.
+2025-11-21 20:36:09,009 - INFO - Connecting to Azure...
+2025-11-21 20:36:09,697 - INFO - Authentication Successful.
+2025-11-21 20:37:12,880 - INFO - Connecting to Azure...
+2025-11-21 20:37:13,468 - INFO - Authentication Successful.
+2025-11-21 20:38:16,573 - INFO - Connecting to Azure...
+2025-11-21 20:38:17,338 - INFO - Authentication Successful.
+2025-11-21 20:39:21,790 - INFO - Connecting to Azure...
+2025-11-21 20:39:22,609 - INFO - Authentication Successful.
+2025-11-21 20:40:27,538 - INFO - Connecting to Azure...
+2025-11-21 20:40:28,417 - INFO - Authentication Successful.
+2025-11-21 20:41:37,051 - INFO - Connecting to Azure...
+2025-11-21 20:41:37,847 - INFO - Authentication Successful.
+2025-11-21 20:42:43,259 - INFO - Connecting to Azure...
+2025-11-21 20:42:43,806 - INFO - Authentication Successful.
+2025-11-21 20:43:46,756 - INFO - Connecting to Azure...
+2025-11-21 20:43:47,319 - INFO - Authentication Successful.
+2025-11-21 20:44:50,389 - INFO - Connecting to Azure...
+2025-11-21 20:44:50,914 - INFO - Authentication Successful.
+2025-11-21 20:45:54,235 - INFO - Connecting to Azure...
+2025-11-21 20:45:55,073 - INFO - Authentication Successful.
+2025-11-21 20:46:57,352 - INFO - Bot stopped by user.
+2025-11-21 20:47:00,780 - INFO - System Online. Monitoring: cmalagon@genthrust.net
+2025-11-21 20:47:00,780 - INFO - Connecting to Azure...
+2025-11-21 20:47:01,437 - INFO - Authentication Successful.
+2025-11-21 20:48:04,513 - INFO - Connecting to Azure...
+2025-11-21 20:48:05,369 - INFO - Authentication Successful.
+2025-11-21 20:48:06,576 - INFO - Processing Email: C CHECK TEST 7
+2025-11-21 20:48:06,593 - INFO - Found 9 parts using Text Scanner
+2025-11-21 20:48:06,902 - INFO - Report sent to 1 recipients.
+2025-11-21 20:48:07,197 - INFO - Email marked as read.
+2025-11-21 20:49:10,847 - INFO - Connecting to Azure...
+2025-11-21 20:49:11,534 - INFO - Authentication Successful.
+2025-11-21 20:50:14,352 - INFO - Connecting to Azure...
+2025-11-21 20:50:14,834 - INFO - Authentication Successful.
+2025-11-21 20:51:17,430 - INFO - Connecting to Azure...
+2025-11-21 20:51:19,352 - INFO - Authentication Successful.
+2025-11-21 20:52:25,650 - INFO - Connecting to Azure...
+2025-11-21 20:52:26,494 - INFO - Authentication Successful.
+2025-11-21 20:52:46,177 - INFO - Bot stopped by user.
+2025-11-21 20:52:47,674 - INFO - System Online. Monitoring: cmalagon@genthrust.net
+2025-11-21 20:52:47,674 - INFO - Connecting to Azure...
+2025-11-21 20:52:48,778 - INFO - Authentication Successful.
+2025-11-21 20:53:51,675 - INFO - Connecting to Azure...
+2025-11-21 20:53:52,231 - INFO - Authentication Successful.
+2025-11-21 20:53:53,142 - INFO - Processing Email: Fw: C CHECK TEST 7
+2025-11-21 20:53:53,158 - INFO - Found 5 parts using HTML Table (Promoted)
+2025-11-21 20:53:53,459 - INFO - Report sent to 1 recipients.
+2025-11-21 20:53:53,663 - INFO - Email marked as read.
+2025-11-21 20:54:55,253 - INFO - Connecting to Azure...
+2025-11-21 20:54:55,789 - INFO - Authentication Successful.
+2025-11-21 20:54:56,534 - INFO - Skipping own report: Inventory Alert: Fw: C CHECK TEST 7
+2025-11-21 20:55:58,492 - INFO - Connecting to Azure...
+2025-11-21 20:55:59,102 - INFO - Authentication Successful.
+2025-11-21 20:57:01,694 - INFO - Connecting to Azure...
+2025-11-21 20:57:02,431 - INFO - Authentication Successful.
+2025-11-21 20:58:05,592 - INFO - Connecting to Azure...
+2025-11-21 20:58:06,284 - INFO - Authentication Successful.
+2025-11-21 20:58:07,304 - INFO - Processing Email: C CHECK TEST 8
+2025-11-21 20:58:07,315 - INFO - Found 20 parts using Text Scanner
+2025-11-21 20:58:07,635 - INFO - Report sent to 1 recipients.
+2025-11-21 20:58:07,892 - INFO - Email marked as read.
+2025-11-21 20:59:09,824 - INFO - Connecting to Azure...
+2025-11-21 20:59:10,406 - INFO - Authentication Successful.
+2025-11-21 21:00:13,243 - INFO - Connecting to Azure...
+2025-11-21 21:00:13,888 - INFO - Authentication Successful.
+2025-11-21 21:01:16,490 - INFO - Connecting to Azure...
+2025-11-21 21:01:17,364 - INFO - Authentication Successful.
+2025-11-21 21:02:20,337 - INFO - Connecting to Azure...
+2025-11-21 21:02:20,893 - INFO - Authentication Successful.
+2025-11-21 21:03:23,790 - INFO - Connecting to Azure...
+2025-11-21 21:03:24,377 - INFO - Authentication Successful.
+2025-11-21 21:04:29,931 - INFO - Connecting to Azure...
+2025-11-21 21:04:30,605 - INFO - Authentication Successful.
+2025-11-21 21:05:33,562 - INFO - Connecting to Azure...
+2025-11-21 21:05:34,602 - INFO - Authentication Successful.
+2025-11-21 21:05:52,812 - INFO - Bot stopped by user.
+2025-11-21 21:05:54,586 - INFO - System Online. Monitoring: cmalagon@genthrust.net
+2025-11-21 21:05:54,587 - INFO - Connecting to Azure...
+2025-11-21 21:05:55,247 - INFO - Authentication Successful.
+2025-11-21 21:06:58,156 - INFO - Connecting to Azure...
+2025-11-21 21:06:58,769 - INFO - Authentication Successful.
+2025-11-21 21:06:59,589 - INFO - Processing Email: C CHECK TEST 9
+2025-11-21 21:06:59,606 - INFO - Found 19 parts using Text Scanner
+2025-11-21 21:06:59,902 - INFO - Report sent to 1 recipients.
+2025-11-21 21:07:00,069 - INFO - Email marked as read.
+2025-11-21 21:08:02,350 - INFO - Connecting to Azure...
+2025-11-21 21:08:02,926 - INFO - Authentication Successful.
+2025-11-21 21:09:05,801 - INFO - Connecting to Azure...
+2025-11-21 21:09:06,317 - INFO - Authentication Successful.
+2025-11-21 21:09:07,168 - INFO - Processing Email: C CHECK 11
+2025-11-21 21:09:07,174 - INFO - Found 5 parts using HTML Table (Promoted)
+2025-11-21 21:09:07,493 - INFO - Report sent to 1 recipients.
+2025-11-21 21:09:07,688 - INFO - Email marked as read.
+2025-11-21 21:10:09,701 - INFO - Connecting to Azure...
+2025-11-21 21:10:10,304 - INFO - Authentication Successful.
+2025-11-21 21:11:13,343 - INFO - Connecting to Azure...
+2025-11-21 21:11:13,983 - INFO - Authentication Successful.
+2025-11-21 21:12:16,819 - INFO - Connecting to Azure...
+2025-11-21 21:12:17,427 - INFO - Authentication Successful.
+2025-11-21 21:13:20,333 - INFO - Connecting to Azure...
+2025-11-21 21:13:20,977 - INFO - Authentication Successful.
+2025-11-21 21:14:23,974 - INFO - Connecting to Azure...
+2025-11-21 21:14:24,776 - INFO - Authentication Successful.
+2025-11-21 21:15:28,305 - INFO - Connecting to Azure...
+2025-11-21 21:15:28,990 - INFO - Authentication Successful.
+2025-11-21 21:16:32,239 - INFO - Connecting to Azure...
+2025-11-21 21:16:32,848 - INFO - Authentication Successful.
+2025-11-21 21:17:35,974 - INFO - Connecting to Azure...
+2025-11-21 21:17:36,979 - INFO - Authentication Successful.
+2025-11-21 21:18:40,664 - INFO - Connecting to Azure...
+2025-11-21 21:18:41,521 - INFO - Authentication Successful.
+2025-11-21 21:19:44,859 - INFO - Connecting to Azure...
+2025-11-21 21:19:45,511 - INFO - Authentication Successful.
+2025-11-21 21:20:49,577 - INFO - Connecting to Azure...
+2025-11-21 21:20:50,397 - INFO - Authentication Successful.
+2025-11-21 21:21:53,718 - INFO - Connecting to Azure...
+2025-11-21 21:21:54,357 - INFO - Authentication Successful.
+2025-11-21 21:22:57,581 - INFO - Connecting to Azure...
+2025-11-21 21:22:58,250 - INFO - Authentication Successful.
+2025-11-21 21:24:01,393 - INFO - Connecting to Azure...
+2025-11-21 21:24:01,939 - INFO - Authentication Successful.
+2025-11-21 21:25:05,084 - INFO - Connecting to Azure...
+2025-11-21 21:25:05,684 - INFO - Authentication Successful.
+2025-11-21 21:26:08,795 - INFO - Connecting to Azure...
+2025-11-21 21:26:09,390 - INFO - Authentication Successful.
+2025-11-21 21:27:12,240 - INFO - Connecting to Azure...
+2025-11-21 21:27:12,733 - INFO - Authentication Successful.
+2025-11-21 21:28:15,523 - INFO - Connecting to Azure...
+2025-11-21 21:28:16,249 - INFO - Authentication Successful.
+2025-11-21 21:29:19,514 - INFO - Connecting to Azure...
+2025-11-21 21:29:20,064 - INFO - Authentication Successful.
+2025-11-21 21:30:23,075 - INFO - Connecting to Azure...
+2025-11-21 21:30:23,944 - INFO - Authentication Successful.
+2025-11-21 21:31:27,199 - INFO - Connecting to Azure...
+2025-11-21 21:31:28,029 - INFO - Authentication Successful.
+2025-11-21 21:32:32,692 - INFO - Connecting to Azure...
+2025-11-21 21:32:33,575 - INFO - Authentication Successful.
+2025-11-21 21:32:34,916 - INFO - Processing Email: C CHECK TEST 13
+2025-11-21 21:32:34,924 - INFO - Found 19 parts using Text Scanner
+2025-11-21 21:32:35,251 - INFO - Report sent to 1 recipients.
+2025-11-21 21:32:35,539 - INFO - Email marked as read.
+2025-11-21 21:33:39,584 - INFO - Connecting to Azure...
+2025-11-21 21:33:40,402 - INFO - Authentication Successful.
+2025-11-21 21:33:41,655 - INFO - Skipping own report: Inventory Alert: C CHECK TEST 13
+2025-11-21 21:34:44,194 - INFO - Connecting to Azure...
+2025-11-21 21:34:45,003 - INFO - Authentication Successful.
+2025-11-21 21:34:49,667 - INFO - Bot stopped by user.
+2025-11-21 21:46:34,783 - INFO - System Online. Monitoring: cmalagon@genthrust.net
+2025-11-21 21:46:34,783 - INFO - Connecting to Azure...
+2025-11-21 21:46:35,588 - INFO - Authentication Successful.
+2025-11-21 21:46:35,588 - INFO - Syncing Inventory from SharePoint: genthrustxvii.sharepoint.com/sites/PartsQuotationsWebsite...
+2025-11-21 21:46:41,163 - INFO - SharePoint Sync Successful!
+2025-11-21 21:47:45,008 - INFO - Connecting to Azure...
+2025-11-21 21:47:45,916 - INFO - Authentication Successful.
+2025-11-21 21:47:45,916 - INFO - Syncing Inventory from SharePoint: genthrustxvii.sharepoint.com/sites/PartsQuotationsWebsite...
+2025-11-21 21:47:48,607 - INFO - SharePoint Sync Successful!
+2025-11-21 21:47:49,755 - INFO - Processing Email: C CHECK TEST 15
+2025-11-21 21:47:49,769 - INFO - Found 18 parts. Checking DB...
+2025-11-21 21:47:50,129 - INFO - Report sent.
+2025-11-21 21:47:50,369 - INFO - Email marked as read.
+2025-11-21 21:48:52,140 - INFO - Connecting to Azure...
+2025-11-21 21:48:52,918 - INFO - Authentication Successful.
+2025-11-21 21:48:52,918 - INFO - Syncing Inventory from SharePoint: genthrustxvii.sharepoint.com/sites/PartsQuotationsWebsite...
+2025-11-21 21:48:55,425 - INFO - SharePoint Sync Successful!
+2025-11-21 21:49:58,138 - INFO - Connecting to Azure...
+2025-11-21 21:49:58,971 - INFO - Authentication Successful.
+2025-11-21 21:49:58,971 - INFO - Syncing Inventory from SharePoint: genthrustxvii.sharepoint.com/sites/PartsQuotationsWebsite...
+2025-11-21 21:50:02,182 - INFO - SharePoint Sync Successful!
+2025-11-21 21:51:05,133 - INFO - Connecting to Azure...
+2025-11-21 21:51:06,342 - INFO - Authentication Successful.
+2025-11-21 21:51:06,343 - INFO - Syncing Inventory from SharePoint: genthrustxvii.sharepoint.com/sites/PartsQuotationsWebsite...
+2025-11-21 21:51:08,976 - INFO - SharePoint Sync Successful!
+2025-11-21 21:52:12,155 - INFO - Connecting to Azure...
+2025-11-21 21:52:13,061 - INFO - Authentication Successful.
+2025-11-21 21:52:13,061 - INFO - Syncing Inventory from SharePoint: genthrustxvii.sharepoint.com/sites/PartsQuotationsWebsite...
+2025-11-21 21:52:15,378 - INFO - SharePoint Sync Successful!
+2025-11-21 21:53:18,261 - INFO - Connecting to Azure...
+2025-11-21 21:53:19,173 - INFO - Authentication Successful.
+2025-11-21 21:53:19,173 - INFO - Syncing Inventory from SharePoint: genthrustxvii.sharepoint.com/sites/PartsQuotationsWebsite...
+2025-11-21 21:53:25,753 - INFO - SharePoint Sync Successful!
+2025-11-21 21:53:50,475 - INFO - Bot stopped by user.
+2025-11-21 21:53:52,581 - INFO - System Online. Monitoring: cmalagon@genthrust.net
+2025-11-21 21:53:52,582 - INFO - Connecting to Azure...
+2025-11-21 21:55:03,596 - INFO - Connecting to Azure...
+2025-11-21 21:55:08,562 - INFO - Processing Email: C CHECK TEST 17
+2025-11-21 21:55:08,885 - INFO - Report sent.
+2025-11-21 21:55:09,109 - INFO - Email marked as read.
+2025-11-21 21:56:10,844 - INFO - Connecting to Azure...
+2025-11-21 21:57:16,931 - INFO - Connecting to Azure...
+2025-11-21 21:57:21,793 - INFO - Processing Email: C CHECK 19
+2025-11-21 21:57:22,111 - INFO - Report sent.
+2025-11-21 21:57:22,355 - INFO - Email marked as read.

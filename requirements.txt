@@ -1,0 +1,6 @@
+O365
+pandas
+python-dotenv
+openpyxl
+lxml
+beautifulsoup4
