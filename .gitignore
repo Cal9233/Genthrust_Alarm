@@ -8,3 +8,4 @@ gitignore
 data
 o365_token.txt
 /o365_token.txt
+.o365_token.txt

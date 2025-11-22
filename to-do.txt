@@ -1,0 +1,77 @@
+Because your script currently relies on your laptop being turned on and connected to the internet, "running all the time" implies one of two things:
+
+The "Background" Method: You run it on your laptop (or an office server) silently in the background, ensuring it auto-starts if the computer restarts.
+
+The "Cloud" Method: You upload it to Azure/Cloud, so it runs on Microsoft's servers 24/7 (even if your laptop is off).
+
+Given you are already in Azure, I will show you how to make the script Crash-Proof first, then how to run it in the background on Windows.
+
+Step 1: Make the Bot "Crash-Proof"
+Currently, if the internet blinks or the bot hits a weird error, the script will crash and stop running. We need to change the loop so it automatically restarts if it encounters an error.
+
+Update the very bottom of src/app.py (replace the if __name__ == "__main__": block):
+
+Test it: Double-click this file. It should open a black window and start the bot. If that works, close it and proceed.
+
+B. Set up Task Scheduler
+Press Win + R, type taskschd.msc, and hit Enter.
+
+On the right, click Create Basic Task.
+
+Name: InventoryBot. Click Next.
+
+Trigger: Select When the computer starts (or "When I log on"). Click Next.
+
+Action: Start a program. Click Next.
+
+Program/script: Browse and select your start_bot.bat file.
+
+Start in (Optional): Paste the folder path: C:\Users\calvi\Projects\Genthrust_Alarm\
+
+Click Finish.
+
+C. Make it Hidden (Optional)
+If you don't want the black window popping up:
+
+Find InventoryBot in the list (middle pane).
+
+Right-click > Properties.
+
+Select Run whether user is logged on or not.
+
+Check Hidden.
+
+Click OK (It might ask for your Windows password).
+
+Now, even if you restart your computer, the bot will silently start working in the background.
+
+Step 3: The "Cloud" Method (Azure Web App)
+Since you are an Admin and already have the Azure App Registration, the most professional way is to host this on an Azure Web App.
+
+Why?
+
+It never sleeps (Runs 24/7).
+
+It doesn't use your laptop's battery/resources.
+
+It auto-restarts if Microsoft updates servers.
+
+How to do it:
+
+Go to Azure Portal > App Services > Create.
+
+Name: Genthrust-Inventory-Bot.
+
+Publish: Code.
+
+Runtime: Python 3.10 (or 3.11).
+
+Region: East US (or close to you).
+
+Plan: You can start with Free (F1) or Basic (B1).
+
+Once created, go to Deployment Center and connect your GitHub Repository.
+
+CRITICAL: Go to Configuration (Settings) in the left menu. You MUST manually add every variable from your .env file (AZURE_CLIENT_ID, AZURE_CLIENT_SECRET, etc.) as "Application Settings" here, because .env files are not uploaded to the cloud for security.
+
+This method requires a bit more setup but is the "forever" solution. For now, Task Scheduler (Step 2) will likely work perfectly for your needs.
